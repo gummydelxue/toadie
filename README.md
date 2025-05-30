@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💍Will you marry me web page.
 
 Coded by [Haven Charles Papasin](https://www.facebook.com/xvennnnnn)
@@ -17,3 +18,6 @@ Coded by [Haven Charles Papasin](https://www.facebook.com/xvennnnnn)
 **After Click the Yes Button**
 ![image](https://github.com/user-attachments/assets/0c4bce84-ab16-4418-91af-05b3c78d3bbc)
 
+=======
+# toadie
+>>>>>>> 2c4648e0602ccca8cddf07925365e94ded47aeb1
